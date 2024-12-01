@@ -107,5 +107,3 @@ plt.pie(x, labels=labels, autopct='%1.1f%%')
 plt.title("Number Of People Who Survived By Place Of Embarkment")
 plt.legend(loc="lower center")
 plt.show()
-
-# The number of
